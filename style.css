@@ -1,0 +1,59 @@
+html {
+    background-color: #F5F4CE;
+}
+
+header {
+    font-family: "Pixelify Sans", sans-serif;
+    font-size: 1.5em;
+    font-weight: bold;
+    background-color: #C1E1C1;
+    color: red;
+    padding: 10px 0;
+}
+
+body {
+    color: gray;
+    font-family:  "pixelify sans", sans-serif;
+    font-size: 1.4em;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    font-size: 1.5em;
+    font-weight: bold;
+    background-color: #C1E1C1;
+    color: white;
+    padding: 10px 0;
+}
+
+a:hover{
+    color:  gray;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+nav li {
+    margin: 0 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+}
+
+img {
+    max-width: 100%;
+}
+
+footer {
+    text-align: center;
+    font-family: Helvectica, sans-serif;
+    background-color: #C1E1C1;
+    color: #fff;
+    padding: 10px;
+}
